@@ -1,0 +1,59 @@
+body{
+    background-image: url(img\ sign.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+.a{
+text-align: center;
+background-color: white;
+border-radius:10px ;
+width: min-content;
+overflow-x: 50px;
+margin-left: 472px;
+
+}
+#email{
+    height: 59px;
+    border: 9px solid rgb(212 215 225);
+    border-radius: 7px;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    margin: 9px;
+    background-color: rgb(212 215 225);
+    border: -322px;
+    font-size: 24px;
+}
+#password{
+    height: 59px;
+    border: 9px solid rgb(212 215 225);
+    border-radius: 7px;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    margin: 9px;
+    background-color: rgb(212 215 225);
+    border: -322px;
+    font-size: 24px;
+}
+.h1{
+    color: black;
+    font-family: sans-serif;
+}
+.bb1{
+    border: 10px;
+    border-radius: 18px;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    border: 15px solid rgb(10, 63, 236);
+    color: aliceblue;
+    margin: 9px;
+    background-color: blue;
+    width: 202px;
+}
+.bod{
+    justify-items: center;
+    align-items: center;
+    
+}
